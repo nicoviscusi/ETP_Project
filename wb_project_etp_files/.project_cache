@@ -22,11 +22,13 @@ dp0/FFF-2/DM/FFF-2.scdoc
 dp0/FFF-2/Fluent/FFF-Setup-Output.cas.h5
 dp0/FFF-2/Fluent/FFF.set
 dp0/FFF-2/Fluent/FFF.set.prof
+dp0/FFF-2/MECH/FFF-2.1.msh
 dp0/FFF-2/MECH/FFF-2.msh
 dp0/FFF-3/DM/FFF-3.scdoc
 dp0/FFF-3/Fluent/FFF-Setup-Output.cas.h5
 dp0/FFF-3/Fluent/FFF.set
 dp0/FFF-3/Fluent/FFF.set.prof
+dp0/FFF-3/MECH/FFF-3.1.msh
 dp0/FFF-3/MECH/FFF-3.msh
 dp0/global/MECH/FFF-1.mshdb
 dp0/global/MECH/FFF-2.mshdb
@@ -46,6 +48,8 @@ session_files/journal3.wbjn
 session_files/journal4.wbjn
 session_files/journal5.wbjn
 session_files/journal6.wbjn
+session_files/journal7_crashed.wbjn
+session_files/journal8.wbjn
 inflow.prof
 dp0/
 dpall/
@@ -70,6 +74,8 @@ dp0/FFF-3/DM/
 dp0/FFF-3/Fluent/
 dp0/FFF-3/MECH/
 dp0/global/MECH/
+dp0/global/MECH/FFF-2/
+dp0/global/MECH/FFF-3/
 dpall/global/
 dpall/global/ACT/
 dpall/global/ACT/extensions/
